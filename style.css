@@ -1,0 +1,44 @@
+
+a:visited{color: white;}
+a:hover{color: white;}
+a{text-decoration: none;}
+h2{margin-bottom: 10px;}
+
+.button{
+    border-color: whitesmoke;
+    border-style: solid;
+    border-radius: 3px;
+    border-width: 1px;
+    background-color: black;
+    padding: 1px 7px 2px;
+    display: inline-block;
+    text-align: start;
+    margin: 0em;
+}
+body{
+    background-color: #e9e9cd;
+}
+.pic{
+    border: 10px solid black;
+    background: grey;
+    width: 800px;
+    margin: 35px;
+    margin-left: 10px;
+    padding: 15px;
+}
+.card-body{
+    background-color: #e9e9cd;
+    padding-bottom: 101px;
+    
+}
+.card{
+    /* border: 10px solid black; */
+    background: #a3a382;
+    width: 975px;
+    margin-top: 10px;
+    padding: 5px;
+}
+.btn{
+    background-color: #a3a382;
+    color: white;
+}
